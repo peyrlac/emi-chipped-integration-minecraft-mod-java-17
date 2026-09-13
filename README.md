@@ -2,7 +2,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg)](https://www.minecraft.net/)
 [![Mod Loader](https://img.shields.io/badge/Mod%20Loader-Fabric-blue.svg)](https://fabricmc.net/)
 [![Fabric API](https://img.shields.io/badge/Fabric%20API-1.20.1-lightgrey.svg)](https://modrinth.com/mod/fabric-api)
-[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://adoptium.net/)
+[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://adoptium.net/)
 [![Gradle](https://img.shields.io/badge/Gradle-8.8-blue.svg)](https://gradle.org/)
 
 # EMI Chipped Integration 🔍
@@ -38,7 +38,7 @@ Chipped adds 7 decorative workbenches to Minecraft, each with hundreds of block 
 |---|---|
 | Minecraft | 1.20.1 |
 | Fabric Loader | ≥ 0.16.0 |
-| Java | ≥ 21 |
+| Java | ≥ 17 |
 | EMI | ≥ 1.1.0 |
 | Chipped | ≥ 3.0.0 |
 

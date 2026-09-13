@@ -8,7 +8,7 @@ This guide walks you through setting up the development environment, editing the
 
 Before you begin, make sure you have the following installed:
 
-- **Java Development Kit (JDK) 21** — Required by Fabric Loom. [Download Adoptium JDK 21](https://adoptium.net/)
+- **Java Development Kit (JDK) 17** — Required for this project. [Download Adoptium JDK 17](https://adoptium.net/)
 - **Git** — For cloning the repository
 - **An IDE** (recommended: [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/))
 

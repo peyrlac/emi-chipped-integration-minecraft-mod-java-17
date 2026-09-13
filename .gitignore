@@ -1,0 +1,27 @@
+.gradle/
+.gradle-cache/
+build/
+out/
+bin/
+classes/
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Fabric / Minecraft local runtime data
+run/
+local.properties
+
+# Generated Java classes and jars
+*.class
+*.jar
+
+# Keep the Gradle wrapper tracked so CI can bootstrap Gradle
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# OS files
+.DS_Store
+Thumbs.db
